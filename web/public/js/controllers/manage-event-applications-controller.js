@@ -58,7 +58,7 @@
     }
 
     $scope.ticketTypes = [
-      {name: 'ninja', title: 'Ninja' },
+      {name: 'ninja', title: 'Youth' },
       {name: 'parent-guardian', title: 'Parent/guardian'},
       {name: 'mentor', title: 'Mentor'},
       {name: 'other', title: 'Other'}
